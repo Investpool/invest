@@ -1,0 +1,141 @@
+.navbar-default{
+	background-color: darkblue;
+	color: white;
+	margin: 25px;
+	padding: 20px;
+}
+.wert{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.navbar-right{
+	color: #fff;
+}
+.nav-brand{
+	margin: 10px;
+	padding-top: 5px;
+}
+.navbar-default .navbar-nav>li>a {
+    color: #f9efef;
+}
+.footers{
+	background-color: darkblue;
+	margin-bottom: 20px;
+	padding: 20px;
+	text-align: center;
+	color: orange;
+}
+.pt,.rt{
+	text-align: center;
+}
+.inset{
+	background-image: url();
+	background-size: cover;
+	}
+
+.tan-deep{
+	background-color: cyan;
+	border-top: 10px solid red;
+	border-radius: 5px;	
+	padding: 15px;
+}
+.built-in{
+	background-image: ("lady2.jpg");
+	background-size: contain;
+	background-repeat:no-repeat;
+}
+.set-rate{
+	color: #fff;
+	background-color: black;
+}
+.opt{
+	color: white;
+	text-shadow: 3px 1px 3px cyan;
+	font-family: monospace;
+	font-weight: 100px;
+}
+.pen{
+	color: red;
+	background-color:black;
+	font-weight: 35px;
+	text-align: center;
+}
+.prompt{
+	display:inherit;
+}
+.index-sp{
+	background-color: cyan;
+}
+.python{
+	border-bottom-right-radius: 2px solid red;
+	border: none;
+	padding-bottom: 10px;
+}
+.btn-active{
+	background-color: brown;
+	color: white;
+}
+.quote-arr{
+	background-image: url("grf.jpg");
+	height: 615px;
+	width: 860px;
+	background-repeat: no-repeat;
+	/*background-attachment: fixed;*/
+	background-size: cover;
+	opacity: 80%;
+}
+#spplt{
+	font-family:fantasy;
+	text-align: center;
+	color: red;
+	 
+}
+.mic{
+
+  border: 2px solid;
+  padding: 10px; 
+  width: 250px;
+  resize: vertical;
+  overflow: auto;
+}
+
+
+#upr{
+	font-family: monospace;
+}
+#desg{
+	font-family: 
+	color:blue;
+}
+#trycs{
+	color: yellow;
+	border: 1px solid grey;
+}
+.circ{
+	justify-content: center;
+	align-items: center;
+	color: white;
+	font-size: 200%;
+	padding: 100px 30px 40px 30px;
+}
+.adjust{
+	font-size: 35%;
+}
+.Brand{
+	padding-top: 1px;
+}
+.dropshadow{
+	filter: drop-shadow(5px 9px 2px blue);
+	-webkit-filter:drop-shadow(5px 9px 2px darkblue);
+}
+
+
+
+
+
+
+
+
+
+
+
